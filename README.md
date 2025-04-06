@@ -67,7 +67,7 @@ streamlit run app.py
 ## Dataset Source
 
 Maternal Health Risk Dataset  
-[UCI Repository Link]((https://archive.ics.uci.edu/dataset/863/maternal+health+risk))
+[UCI Repository Link](https://archive.ics.uci.edu/dataset/863/maternal+health+risk)
 
 ---
 
