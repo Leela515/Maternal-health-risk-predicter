@@ -46,13 +46,13 @@ streamlit run app.py
 
 ## Files
 
-| File                   | Description                             |
-|------------------------|-----------------------------------------|
-| `app.py`               | Main Streamlit web app                  |
-| `xgboost_model.joblib` | Trained XGBoost model                   |
-| `scaler.joblib`        | StandardScaler used during training     |
-| `requirements.txt`     | Python dependencies                     |
-
+| File                         | Description                                              |
+|------------------------------|----------------------------------------------------------|
+| `app.py`                     | Main Streamlit web app                                   |
+| `xgboost_model.joblib`       | Trained XGBoost model                                    |
+| `scaler.joblib`              | StandardScaler used during training                      |
+| `requirements.txt`           | Python dependencies                                      |
+| `risk_predicter_model.ipynb` | Full code used to clean data, train and export the model |
 ---
 
 ## Model Details
